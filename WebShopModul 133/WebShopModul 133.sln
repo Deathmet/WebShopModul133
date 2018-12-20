@@ -3,35 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebShopModul 133", "WebShopModul 133\", "{0704922B-4004-481A-96A5-7B17BB62DCF1}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_49252"
-		Debug.AspNetCompiler.PhysicalPath = "WebShopModul 133\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49252\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_49252"
-		Release.AspNetCompiler.PhysicalPath = "WebShopModul 133\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49252\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "49252"
-		SlnRelativePath = "WebShopModul 133\"
-		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShopModul133", "WebApplication1\WebShopModul133.csproj", "{9AB902F6-E404-47FF-A562-9A17DE74F73D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0704922B-4004-481A-96A5-7B17BB62DCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0704922B-4004-481A-96A5-7B17BB62DCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB902F6-E404-47FF-A562-9A17DE74F73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB902F6-E404-47FF-A562-9A17DE74F73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB902F6-E404-47FF-A562-9A17DE74F73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB902F6-E404-47FF-A562-9A17DE74F73D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
